@@ -7,7 +7,7 @@ Our class should have multiple functionality:
 - initialize your shop with a random ID contain one letter and 3 numbers. Ex: A476
 ---
 - **add_product**
-    should take the name, price and stock of your product. Stock should be optional otherwise it counts as 1.
+    should take the name, price and stock of your product. Stock should be optional otherwise it counts as 1
 
 
 ---
