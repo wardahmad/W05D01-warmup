@@ -74,4 +74,7 @@ Our class should have multiple functionality:
     # Price: 5
     # Stock: 6.
     # -------
+    
+    p shop.id
+    p shop.name
 ```
